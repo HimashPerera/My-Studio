@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GiftyVibe</string>
+    <string name="title_activity_main">GiftyVibe</string>
+    <string name="package_name">com.giftyvibe.com</string>
+    <string name="custom_url_scheme">com.giftyvibe.com</string>
+</resources>
